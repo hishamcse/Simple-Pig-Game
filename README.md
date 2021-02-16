@@ -1,2 +1,3 @@
 # Simple Pig Game
- Simple Web Application
+My First Web application. 
+For visualization: https://pig-game-v2.netlify.app/
